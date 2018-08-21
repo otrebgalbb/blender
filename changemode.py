@@ -1,8 +1,9 @@
 import bpy
-
-
-
-        
+#0
+#1
+#2
+#3
+#4      
 class MyOwnOperator(bpy.types.Operator):
     """Tooltip"""
     bl_idname = "object.myown_operator"
